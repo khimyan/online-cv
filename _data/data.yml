@@ -1,13 +1,14 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
+
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Francis Tan Chin Hooi
-    tagline: "35 years old, currently working as freelancer."
+    tagline: 35 years old, currently working as freelancer.
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -147,25 +148,25 @@ publications:
         referrence: http://mwa.my/2017/may/khimyan-curry-a-malaysian-born-curry-paste
 
 skills:
-    title: Skills, Traits &amp; Proficiency
+    title: 'Skills, Traits &amp; Proficiency'
 
     toolset:
-      - name: Website Creation (Gohugo, Jekyll, Wordpress, Jimdo)
+      - name: 'Website Creation (Gohugo, Jekyll, Wordpress, Jimdo)'
         level: 60%
 
-      - name: Canva.com
+      - name: 'Canva.com'
         level: 60%
 
-      - name: Public Speaking
+      - name: 'Public Speaking'
         level: 40%
 
-      - name: Public Relationship
+      - name: 'Public Relationship'
         level: 40%
 
-      - name: Programming
+      - name: 'Programming'
         level: 20%
 
-      - name: Tolerance & Passion
+      - name: 'Tolerance & Passion'
         level: 60%
 
 footer: >
