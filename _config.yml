@@ -1,36 +1,59 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: My Resume
-url: 'http://webjeda.com'
-
-#change it according to your repository name
-# disabling since we are using a custom domain
-#baseurl: '/online-cv' 
-
-description: A beautiful Jekyll theme for creating resume
+title: Francis Tan's CV Online
+url: 'https://peranakanfrancis.github.io/online-cv/'
+description: This is my personal resume build with Jekyll, a fork from Github.
+baseurl: '' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
-chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+chrome_mobile_color: '#1471c4' #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+destination: _site
 
 # Tracker
-analytics: UA-83979019-1
+analytics:
 
-# Sass/SCSS
+social:
+  name: peranakafrancis
+  links:
+    - https://www.facebook.com/peranakanfrancis/
+    - https://www.linkedin.com/in/peranakafrancis
+    - https://github.com/peranakafrancis
+twitter:
+  username: Francis36615257
+  card: summary
+
+# jekyll gems
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+profile: true
+livereload: true
+time_zone: Asia/Kuala_Lumpur
+source:
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter_opts:
+      disable : true
+highlighter: none
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
+excludes: [ README.md, node_modules, Gemfile* ]
 
 # Build settings
-compress-site: yes
-
 encoding: "utf-8"
-compress_html: # - http://jch.penibelst.de/
+compress_html:
+  comments: [ "<!-- ", " -->" ]
   clippings: all
   ignore:
     envs: development
 
 # Development Settings
-port: 4000
-host: 0.0.0.0
+port: 4001
+host: 127.0.0.1
 safe: false
