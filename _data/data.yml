@@ -6,168 +6,188 @@ sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
-# Profile information
-    name: Francis Tan Chin Hooi
-    tagline: 35 years old, currently working as freelancer.
+    # Profile information
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: francis.tch@gmail.com
-    phone: +601165137507
-    whatsapp: +601165137507
-#    website: peranakanfrancis.github.io/mybetterwebsite/ #do not add http://
-#    linkedin: peranakafrancis
-    github: peranakafrancis
-    facebook: peranakanfrancis
-#    instagram: mybetterweb.site
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    citizenship:
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@Francis36615257'
-    stack-overflow: '9007071/francis-tan' # Number/Username, e.g. 123456/alandoe
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    location: Bukit Mertajam, Penang, Malaysia
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: Bahasa Malaysia
-        level: Conversation
-
       - idiom: English
-        level: Conversation
+        level: Native
 
-      - idiom: Chinese
+      - idiom: French
+        level: Professional
+
+      - idiom: Spanish
         level: Professional
 
     interests:
-      - item: Hiking & Trekking
-#        link: "https://mybetterweb.site/#/2018/12/30/chatbot-automation"
+      - item: Climbing
+        link:
 
-      - item: Plantation
-#        link: "https://mybetterweb.site/#/2018/08/13/responsive-website"
+      - item: Snowboarding
+        link:
 
-      - item: Web Techology
-#        link: "https://mybetterweb.site/#/2018/07/01/business-website"
+      - item: Cooking
+        link:
 
 career-profile:
-    title: My Bio
+    title: Career Profile
     summary: |
-      My name is Francis, born in Sabah and raised in Bukit Mertajam. Since very young age of 9 I have been sent out to boarding schools in Melaka & Ipoh. I completed form 5 studies at Bukit Mertajam, without the chance of further my study in college I took up a job offer abroad in Macau for 1.5 years. To be honest, I was a lost sheep
-      due to giving in to drug addiction at the age of 22, it took me almost 12 years to get out from the circle. God made miracles. Thus, my life was blank for many years. Up until 3 years ago (April 2019) after I was miraculously saved by a dream, I woke up and gave up the toxicful lifestyle and started a slightly different one but
-      I was only able back to work last year in a jewellery shop. The reason being was because I got into another deep situation - I got suffered in a very difficult time of my life which I got oppressed by the unclean spirits so I could't really work as a normal person for quite some time. My health dropped and mentally afflicted immersely that
-      I could only work at home. After a year of recovery both in pysically, mentally and spiritually (thanks to many sisters and my parish priest Fr Louis who help me a lot) too. Since sister recomended to go for it and I'm also interested to learn to serve the Lord, so I decided to give this position a try. I have a passion of sharing the
-      Gospel but I need guidance. I can work under supervision and stress. I have a lot of uneasy and ugly past that made me very hard to open up to people but since it is an offer from the church, so I wanted to be honest and hopefully you can see the good in me. Thanks.
-
- education:
-    - degree: SPM
-      university: SMK Simpang Ampat
-      time: 2003 - 2004
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+education:
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
-        I'm an art stream student (Accounting Class). I obstained A2 for English and B for BM. Overall I didn't failed a subjects and got offer to form 6 but I didn't complete the studies and went to airlines training school for the role of flight attendant training course.
-
-    - degree: PMR
-      university: SMK Alma
-      time: 2001 - 2002
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
-        Due to family disagrement, I changed to this goverment school. I had a hard time switiching from chinese to BM. My academic was just average, only bestes in Chinese subject.
-
-    - degree:
-      university: Yok Choy High School Ipoh (SUWA / Independent School)
-      time: 2000 - 2001
-      details: |
-        I got enrolled into the first class for my first year of high school here. My exam is always in the Top 10 in our academic year. I was with the Chinese Orchestra, playing double bass.
-
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
-    - role: Digital Marketing Coordinator
-      time: October 2021 - March, 2022
-      company: U Silver (M) Sdn Bhd, Bayan Baru
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
-       - Mainly managing customer enquiries and orders for online orders on Shopee, Lazada, Facebook and Website.
-       - Preparing contents be it in articles or arts form for advertisement on social media.
-       - Working with Sales team to revamp and publish company website.
-
-experiences:
-    - role: Webmaster
-      time: 2016 - 2018
-      company: Freelance at Nepal
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
       details: |
-        I spent about 15 months backpacking here in a foreign country. I got a few jobs offer in local hotel, resort, travel agencies and internet company. My main job here to help them set up website and online ordering system for their products/services.
-        I met many young local digital markting enthusiast, travel startup, and foreigner who also making a living in this country. My time schedule is quite tight everyday so beside working in front of my laptop and meeting with clients, I spent most my
-        free times visiting to the forest and remote village areas.
-
-    - role: Marketing Coordinator
-      time: 2015 - 2016
-      company: VJ Foodstuff Import & Export, Paya Terubong
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
       details: |
-        This is my step mother company, I got offered a job here but only last for a short while cos I had a very unstable and unhealty lifestyle back then. During my work, I helped to set up company website for rebranding and also to promote food products
-        to overseas To the surprise one of our item won World Top 10 Instant Noodle and I was part of this project.
-
-    - role: Startup at Eco OEM
-      time: 2008 - 2010
-      company: Everlinked Trading Sdn Bhd , Kuala Lumpur
-      details: |
-        This is my first company that my friends invested in with the ideas of providing contract manufacturing for buyer who seek for factory to produce their own brand of health products. I gained my experiences to work closely with Malaysia External Trade Development Corporation (MATRADE) to provide me opportunities to
-        met with overseas buyers and closed many big amount of sales. I also have the chance to work with various manaufacturing factories for my clients to build their health products. My works mainly involving in liasing and negotiating, analysing with market segments with the expert and document works related to internation trades.
-        I got a lot of exposures but sadly soon after that I got myself into drug issue and my life went into a total disaster from then.
-
-    - role: Guest Service Conceirge
-      time: 2006 - 2008
-      company: Sands Macau
-      details: |
-        I was hired through a human resource company in Singapore to work in a casino in Macau as a guest service concerige. My job was easy that included escorting guest to the room, room tours, booking tickets for airlines, receiving guest from airport, and all sort of bellboy works. I returned to Malaysia after I my grandfather passed away
-        and my family was having a enormous changes due to tragedy.
-
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 projects:
     title: Projects
     intro: >
-      I don't have much skills but creating website is my only hobby. These are some of the websites I created and some of them are still live on the internet but some are just for display.
-
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Church of The Holy Name of Mary Permatang Tinggi
-        link: "https://holynameofmarypt.com/"
-        tagline: "A church website. This is my first assignment in church offered by my parish priest Fr Louis."
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: ShiShu Tours
-        link: "https://shishutours.fun"
-        tagline: "A travel ageny in Nepal, mainly providing outbound tours. I used Wordpress for this company."
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Ultranet Communication
-        link: "https://ultranet.surge.sh"
-        tagline: "I was searching for internet wifi and that's when I met them. I created a simple one page website (written in Go) to them and also implemented online banking and ewallet payment gateway to their backend (Wordpress & WooCommerce). "
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Khimyan Curry
-        link: "https://khimyancurry.com/"
-        tagline: "The first version of the website was back in 2016, I nominated it to Malaysia Website Awards and I topped other competitors and won the Award."
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Awards
+    title: Publications
     intro: |
-      I failed in most of my life back in youth and the only pround thing is this.
-
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: "Malaysia Website Awards 2016 - E-Commerce category"
-        description: It was my glorious moment to get the awards for the Website that I made. Besides for the website design and seo strategy, the chatbot that I created to automate online order is the main reason I was chosen.
-        referrence: http://mwa.my/2017/may/khimyan-curry-a-malaysian-born-curry-paste
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: 'Skills, Traits &amp; Proficiency'
+    title: Skills &amp; Proficiency
 
     toolset:
-      - name: 'Website Creation (Gohugo, Jekyll, Wordpress, Jimdo)'
-        level: 60%
+      - name: Python & Django
+        level: 98%
 
-      - name: 'Canva.com'
-        level: 60%
+      - name: Javascript & jQuery
+        level: 98%
 
-      - name: 'Public Speaking'
-        level: 40%
+      - name: Angular
+        level: 98%
 
-      - name: 'Public Relationship'
-        level: 40%
+      - name: HTML5 & CSS
+        level: 95%
 
-      - name: 'Programming'
-        level: 20%
+      - name: Ruby on Rails
+        level: 85%
 
-      - name: 'Tolerance & Passion'
+      - name: Sketch & Photoshop
         level: 60%
 
 footer: >
-    Last updated on May 2022. All right reserved. This is a private resume. Please respect my privacy. God bless.
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
