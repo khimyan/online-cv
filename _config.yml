@@ -24,10 +24,10 @@ twitter:
   card: summary
 
 # jekyll gems
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+#plugins:
+ # - jekyll-feed
+ # - jekyll-seo-tag
+ # - jekyll-sitemap
 
 profile: true
 livereload: true
